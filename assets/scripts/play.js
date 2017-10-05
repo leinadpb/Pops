@@ -308,7 +308,7 @@ function CreatePlatform() {
     
     
     //Add items
-   // AddItems();
+    AddItems();
 
     //Add enemies
     CreateEnemy(2900,game.world.height - tileHeight - game.cache.getImage('enemy').height - 10);
