@@ -1,5 +1,5 @@
 # Pops
-Video juego multinivel en 2D.
+Video juego multinivel en 2D. ** *(Aún en desarrollo)* **
 <br /><br />
 **Historia:**<br />
 Pops es una caricatura que nunca ha podido vencer a sus enemigos, por tal razón, prefiere ocultarse antes que pelear
