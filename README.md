@@ -12,8 +12,5 @@ ayudarlo y protegerlo. Pops cuenta contigo para llegar a salvo a su casa.
 **▲** - Saltar<br />
 **▼** - Ocultarse<br />
 <br />
-# Developers:<br />
+# Developer:<br />
 **Daniel Peña** - *Estudiante de Ingeniería de Software*<br />
-**Daniel Chaddy** - *Estudiante de Ingeniería de Software*<br />
-**Dionis Vargas** - *Estudiante de Ingeniería de Software*<br />
-**Carlos Kibel** - *Estudiante de Ingeniería de Software*<br />
